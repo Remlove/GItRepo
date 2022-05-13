@@ -6,5 +6,9 @@ hello world
 dev分支 master
 master--------11111     dev-----222
 新添加的内容222
+<<<<<<< HEAD
 clonetest
 pingjutest新增
+=======
+clonetest  新增内容
+>>>>>>> 9b63db55603dbf07e16ea237129121024f0cc0f0
